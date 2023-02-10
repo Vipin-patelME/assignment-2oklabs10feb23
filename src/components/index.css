@@ -1,0 +1,242 @@
+.CompA{
+    height: 150px;
+    width:100%;
+    background-color: darkslategrey;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .ht-logo{
+    height: 60px;
+    width: auto;
+  }
+  
+  .button-style{
+    font-size: 21px;
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    background-color: transparent;
+    height: 30px;
+    border-style: none;
+    margin: 15px;
+  }
+  .comp-c{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .trial-para{
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 20px;
+  }
+  .subscribe-btn{
+    font-size: 16px;
+    height: 35px;
+    width: 100px;
+    margin-left: 15px;
+    border-radius: 5px;
+    border-style: none;
+  }
+  .comp-d{
+    margin-top: 20px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .comp-d-btn{
+    height: 30px;
+    min-width: 100px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 505;
+    font-size: 17px;
+    text-align: center;
+    background-color: transparent;
+    border-style: none;
+    margin: 3px;
+
+  }
+  .comp-e{
+    padding: 10px;
+  }
+  .comp-e-btn{
+    font-size: 17px;
+    height: 30px;
+    width: auto;
+    background-color: transparent;
+    margin: 9px;
+    border: 1px solid black;
+    border-radius: 15px;
+  }
+  .comp-f{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    width: 90%;
+    background-color: darkgreen;
+    height: 100px;
+  }
+  .comp-g{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+  }
+
+  .comp-g-1{
+    min-height: 100px;
+    width: 25%;
+    background-color: lightblue;
+    border-radius: 8px;
+  }
+  .new-head{
+    text-align: center;
+    font-family: serif;
+    font-size: 25px;
+    font-weight: 990;
+    padding-top: 25px;
+  }
+  .head-2{
+    color: blueviolet;
+    margin-left: 20px;
+  }
+.details{
+    margin-left: 20px;
+    font-family: cursive;
+    padding-top: 0;
+    margin-top: -8px;
+}
+.horizontal{
+    font-size: 12px;
+    color: blue;
+}
+.comp-g-2{
+    padding: 15px;
+    min-height: 100px;
+    width: 40%;
+    background-color: lightblue;
+    border-radius: 8px;
+    box-shadow: 10px, black;
+}
+.news-image{
+    height: 200px;
+    width: 450px;
+}
+.advertisememnt{
+    height: 200px;
+}
+.child-cont{
+    background-color: azure;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+.comp-i{
+    display: flex;
+}
+
+.view-all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    height: 40px;
+    width: 130px;
+    margin-left: 30%;
+}
+.comp-g-3{
+    min-height: 100px;
+    width: 25%;
+    background-color: lightblue;
+    border-radius: 8px;
+    padding-left: 20px;
+  }
+  .comp-n{
+    min-height: 100px;
+    background-color: beige;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  .comp-n-img{
+    height: 150px;
+  }
+.View-all-btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  height: 40px;
+  width: 130px;
+  margin-left: 30%;
+}
+.comp-r{
+    padding-top: 50px;
+    background-color: darkslategrey;
+    width: 100%;
+    min-height: 200px;
+}
+.comp-r-child{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.comp-s{
+    display: flex;
+    justify-content: space-around;
+}
+.comp-s-head{
+    color: #ffffff;
+    margin-left: 10%;
+}
+.Sele-ele{
+    height: 40px;
+    width: 200px;
+    border-style: none;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.sub-btn{
+    height: 40px;
+    width: 150px;
+    color: #ffffff;
+    background-color: transparent;
+    border: 1px, bold, #ffffff;
+
+}
+.comp-s-sum-cont{
+    width: 45%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.comp-t{
+    display: flex;
+    width: 25%;
+    justify-content: space-around;
+    align-items: center;
+}
+.para-cont{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.para-style{
+    color: #ffffff;
+    font-family: cursive;
+}
+.test-area{
+    background-color: bisque;
+    border-radius: 5px;
+    color: black;
+    font-family: cursive;
+}
+.feedback-btn{
+    font-size: 20px;
+    height: 40px;
+    width: 200px;
+    border-radius: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
